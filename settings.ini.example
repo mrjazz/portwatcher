@@ -1,0 +1,9 @@
+port=6789
+mail.to=denis@test.com
+mail.from=bot@gmail.com
+mail.subject=portwatcher
+mail.pass=somepass
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587

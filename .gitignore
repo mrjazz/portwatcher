@@ -1,0 +1,8 @@
+/target
+/settings.ini
+/out
+
+*.iml
+/.idea
+
+/launch4j.xml
